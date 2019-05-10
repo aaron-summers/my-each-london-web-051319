@@ -8,6 +8,6 @@ def my_each(array)
   end
   return array
   else
-    puts "Error occured!"
+    return "Error occured!"
   end
 end
